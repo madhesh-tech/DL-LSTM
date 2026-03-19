@@ -3,8 +3,10 @@
 ## AIM
 To develop an LSTM-based model for recognizing the named entities in the text.
 
-## Problem Statement and Dataset
-
+## Problem Statement
+The problem is to develop a deep learning model using LSTM that can identify and classify named entities such as names, locations, and organizations from text data.
+## Theory
+Named Entity Recognition (NER) is a Natural Language Processing (NLP) task used to extract important entities from text. LSTM (Long Short-Term Memory) networks are effective for sequence data as they capture context and dependencies in sentences. The model is trained on labeled text data to recognize and classify entities accurately.
 
 ## DESIGN STEPS
 ### STEP 1: 
